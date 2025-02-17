@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_2025" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to deal with an angry customer</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_deal_with_an_angry_customer_ORG">
+    <organization identifier="How_to_deal_with_an_angry_customer_ORG">
+      <title>How to deal with an angry customer</title>
+      <item identifier="_&lt;year&gt;_&lt;coursename&gt;_&lt;langcode&gt;_SCO" isvisible="true" identifierref="__2025_RES">
+        <title>How to deal with an angry customer</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__2025_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5vvllGmlCKI_44100_48_0.mp3" />
+      <file href="story_content/video_5zISHOXTJFM_22_48_960x540.mp4" />
+      <file href="mobile/poster_6lxr8cJx6jS_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/6prLGBZgQen_44100_48_0.mp3" />
+      <file href="story_content/6OJNp9I2Uyk_44100_48_0.mp3" />
+      <file href="story_content/6at0tg3gSpE_44100_48_0.mp3" />
+      <file href="story_content/6Lt1PFR0tgw_44100_48_0.mp3" />
+      <file href="story_content/video_5txw7hrL5yK_22_48_960x540.mp4" />
+      <file href="mobile/poster_6Nh1nMBabcl_video_5txw7hrL5yK_22_48_960x540.jpg" />
+      <file href="mobile/poster_62CEzLY5ojW_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/6kNjyfQFE4M_44100_48_0.mp3" />
+      <file href="mobile/6W9Cn7mSCpV.png" />
+      <file href="mobile/5ivHR2qoxA7.png" />
+      <file href="mobile/5xcmSCNfF2K.png" />
+      <file href="story_content/6YbwkpDgFIz_44100_48_0.mp3" />
+      <file href="story_content/6mjkpt3q4SA_44100_48_0.mp3" />
+      <file href="mobile/poster_64mumoCqRiO_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="mobile/5tUeABezlR5_P_231_0_540_540.png" />
+      <file href="story_content/6LVGkORZzZU_44100_48_0.mp3" />
+      <file href="story_content/6CRRA3R8bTd_44100_48_0.mp3" />
+      <file href="mobile/poster_6favXfWJvBW_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/6LphHYdci9C_44100_48_0.mp3" />
+      <file href="mobile/6EfEhDaPozi.png" />
+      <file href="story_content/5xHIpjZg7iH_44100_48_0.mp3" />
+      <file href="story_content/6eWYiOJudJK_44100_48_0.mp3" />
+      <file href="story_content/6q2n5mWXk2Q_44100_48_0.mp3" />
+      <file href="story_content/6DtyXKl4uz3_44100_48_0.mp3" />
+      <file href="mobile/poster_5f8twuemwae_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/68yTxZarj1R_44100_48_0.mp3" />
+      <file href="mobile/poster_5aujZU0Vwmo_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/6nAMHoy6ZK4_44100_48_0.mp3" />
+      <file href="mobile/poster_5gp2Updif0j_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/6BjWGACeOk4_44100_48_0.mp3" />
+      <file href="mobile/poster_6F0PVxhABOm_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/6m53KMSDHoV_44100_48_0.mp3" />
+      <file href="mobile/poster_6lly77Zcs3n_video_5zISHOXTJFM_22_48_960x540.jpg" />
+      <file href="story_content/6QOEZpfENTd_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5u1F3ITruOZ.js" />
+      <file href="html5/data/js/6antFrCaqtD.js" />
+      <file href="html5/data/js/6C8z8kb7BnN.js" />
+      <file href="html5/data/js/6DdHOipqoYt.js" />
+      <file href="html5/data/js/6DEXR2IEJsO.js" />
+      <file href="html5/data/js/6h7K7VA6WrT.js" />
+      <file href="html5/data/js/6Ol12oOGAV3.js" />
+      <file href="html5/data/js/6ov1Z6biTPS.js" />
+      <file href="html5/data/js/6p9rTmvTF1o.js" />
+      <file href="html5/data/js/6UjdBxHVoSy.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
